@@ -7,9 +7,12 @@ import java.util.HashSet;
 
 
 
+
 import positioning.Coordinate;
 import properties.Location;
 import luckyCards.*;
+
+
 public class Chance extends SpecialArea implements Location {
 
 	private Card[] cards;
