@@ -1,7 +1,0 @@
-name="Man"
-description="Funny looking fellow"
-mask = "mask.jpg"
-image = "rightTower.jpg"
-width = 492
-height = 100
-hasShadows = true
